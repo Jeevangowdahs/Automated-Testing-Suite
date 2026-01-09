@@ -19,9 +19,3 @@ An automated testing framework designed to validate web application functionalit
 [2026-01-09] TC_02 Inventory Count: PASSED
 [2026-01-09] TC_03 Locked User Check: PASSED
 
-🚀 How to Run
-1.Install dependencies:
-  pip install selenium
-
-2.Run the bot:
-  python auto_tester.py
